@@ -1,0 +1,6 @@
+- Assignment was completed individually in T2 2020 for COMP1521: Computer System Fundamentals.
+- Task was to create an emulator in C for a small simple subset of MIPS assembly.
+- This project had a focus on gaining an understanding of an example CPU and practicing bit operations in C.
+- Project Spec can be found in spec.md.
+- Application is very difficult to run outside of a unsw cse machine (as it is run using the provided command: ```1521 smips <inputFile>```)
+- A final mark of 90.1/100 was awarded and was worth 15% of grade.
